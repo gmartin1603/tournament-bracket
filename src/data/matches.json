@@ -1,0 +1,170 @@
+[
+  {
+    "id": 4000,
+    "name": "Final - Match",
+    "nextMatchId": null,
+    "tournamentRoundText": "4",
+    "startTime": "2021-05-30",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-56c-9a3620c0531b",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "DJ"
+      },
+      {
+        "id": "39ea9ce1a89-45",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "Goku"
+      }
+    ]
+  },
+  {
+    "id": 3002,
+    "name": "Semi Final - Match 2",
+    "nextMatchId": 4000,
+    "tournamentRoundText": "3",
+    "startTime": "2021-05-30",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "39ea9ce1a89-45",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "Goku"
+      },
+      {
+        "id": "39ea9ce1a89",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Jenkins"
+      }
+    ]
+  },
+  {
+    "id": 3001,
+    "name": "Semi Final - Match 1",
+    "nextMatchId": 4000,
+    "tournamentRoundText": "3",
+    "startTime": "2021-05-30",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-856c-9a3620c0531b",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Jona"
+      },
+      {
+        "id": "9ea9ce1a-4794-56c-9a3620c0531b",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "DJ"
+      }
+    ]
+  },
+  {
+    "id": 2004,
+    "name": "Round 1 - Match 4",
+    "nextMatchId": 3001,
+    "tournamentRoundText": "1",
+    "startTime": "2021-05-29",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-856c-9a3620c0531b",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "Jona"
+      },
+      {
+        "id": "39ea9ce1a89-432",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Sammy"
+      }
+    ]
+  },
+  {
+    "id": 2003,
+    "name": "Round 1 - Match 3",
+    "nextMatchId": 3001,
+    "tournamentRoundText": "1",
+    "startTime": "2021-05-29",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-56c-9a3620c0531b",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "DJ"
+      },
+      {
+        "id": "39ea9ce1a89-456",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Matt"
+      }
+    ]
+  },
+  {
+    "id": 2002,
+    "name": "Round 1 - Match 2",
+    "nextMatchId": 3002,
+    "tournamentRoundText": "1",
+    "startTime": "2021-05-29",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-4553-856c-9a3620c0531b",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Naruto"
+      },
+      {
+        "id": "39ea9ce1a89-45",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "Goku"
+      }
+    ]
+  },
+  {
+    "id": 2001,
+    "name": "Round 1 - Match 1",
+    "nextMatchId": 3002,
+    "tournamentRoundText": "1",
+    "startTime": "2021-05-28",
+    "state": "SCHEDULED",
+    "participants": [
+      {
+        "id": "9ea9ce1a-4794-4553-9a3620c0531b",
+        "resultText": "L",
+        "isWinner": false,
+        "status": null,
+        "name": "Ant"
+      },
+      {
+        "id": "39ea9ce1a89",
+        "resultText": "W",
+        "isWinner": true,
+        "status": null,
+        "name": "Jenkins"
+      }
+    ]
+  }
+]
